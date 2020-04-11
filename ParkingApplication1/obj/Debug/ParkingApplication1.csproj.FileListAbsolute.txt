@@ -1,0 +1,12 @@
+C:\Project\Parking Systeam\ParkingApplication1\ParkingApplication1\bin\ParkingApplication1.dll.config
+C:\Project\Parking Systeam\ParkingApplication1\ParkingApplication1\bin\ParkingApplication1.dll
+C:\Project\Parking Systeam\ParkingApplication1\ParkingApplication1\bin\ParkingApplication1.pdb
+C:\Project\Parking Systeam\ParkingApplication1\ParkingApplication1\obj\Debug\ParkingApplication1.dll
+C:\Project\Parking Systeam\ParkingApplication1\ParkingApplication1\obj\Debug\ParkingApplication1.pdb
+C:\Project\Parking Systeam\ParkingApplication1\ParkingApplication1\obj\Debug\ParkingApplication1.csprojResolveAssemblyReference.cache
+C:\Project\Parking Systeam\PMS\ParkingManagmentSystem\ParkingApplication1\bin\ParkingApplication1.dll.config
+C:\Project\Parking Systeam\PMS\ParkingManagmentSystem\ParkingApplication1\bin\ParkingApplication1.dll
+C:\Project\Parking Systeam\PMS\ParkingManagmentSystem\ParkingApplication1\bin\ParkingApplication1.pdb
+C:\Project\Parking Systeam\PMS\ParkingManagmentSystem\ParkingApplication1\obj\Debug\ParkingApplication1.csprojResolveAssemblyReference.cache
+C:\Project\Parking Systeam\PMS\ParkingManagmentSystem\ParkingApplication1\obj\Debug\ParkingApplication1.dll
+C:\Project\Parking Systeam\PMS\ParkingManagmentSystem\ParkingApplication1\obj\Debug\ParkingApplication1.pdb
